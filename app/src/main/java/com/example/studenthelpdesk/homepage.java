@@ -14,12 +14,7 @@ public class homepage extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.homepage);
-        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-        if (user != null) {
-            // User is signed in, which indicates Firebase is successfully connected.
-        } else {
-            // User is not signed in, which may indicate a connection issue or no user is signed in.
-        }
+
         Button signUpButton = findViewById(R.id.signUpBtn);
         Button logInButton = findViewById(R.id.loginBtn);
         ImageView bookImg = findViewById(R.id.bookImg);
