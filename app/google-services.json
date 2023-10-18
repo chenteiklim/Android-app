@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282867059348",
+    "project_id": "student-help-desk-cd38f",
+    "storage_bucket": "student-help-desk-cd38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282867059348:android:872a8af1995a579f1f4281",
+        "android_client_info": {
+          "package_name": "com.example.studenthelpdesk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUbJq_XuYBI9X-cNCq3NdKrFZc_C97rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
